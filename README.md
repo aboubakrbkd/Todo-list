@@ -22,6 +22,9 @@ To get started with this project, follow these steps:
 3. Install dependencies:
      ```bash
      npm install
-4.Run the app in development mode:
-      ```bash
-      npm run dev
+4. Run the app in development mode:
+     ```bash
+     npm run dev
+5. Go to this Port:
+     ```bash
+     http://localhost:5173
