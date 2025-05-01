@@ -24,4 +24,4 @@ To get started with this project, follow these steps:
      npm install
 4.Run the app in development mode:
       ```bash
-     npm install
+      npm run dev
