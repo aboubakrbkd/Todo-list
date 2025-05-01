@@ -20,9 +20,8 @@ To get started with this project, follow these steps:
    ```bash
     cd todo-list-app
 3. Install dependencies:
-  ```bash
-  npm install
+     ```bash
+     npm install
 4.Run the app in development mode:
-  ```bash
-  npm run dev
-http://localhost:5173/
+      ```bash
+     npm install
