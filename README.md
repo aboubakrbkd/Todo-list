@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/yourusername/todo-list-app.git
 2. Navigate to the project directory:
    ```bash
-    cd todo-list-app
+    cd TODO-list
 3. Install dependencies:
      ```bash
      npm install
