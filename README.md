@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git@github.com:aboubakrbkd/Todo-list.git
 2. Navigate to the project directory:
    ```bash
     cd TODO-list
